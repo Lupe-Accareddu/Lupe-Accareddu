@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lupe-Accareddu
-- 👀 I’m interested in coding, lerning, music!
+- 👀 I’m interested in coding, learning, languages, and music!
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on no one for the moment
+- 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me here for now, will update this soon!
 
 <!---
