@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Lupe-Accareddu
-- 👀 I’m interested in coding, learning, languages, and music!
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on nothing for the moment
-- 📫 How to reach me here for now, will update this soon!
+Welcome to my github profile! Im Lupe Accareddu, a frontend developer in the making!
 
 <!---
 Lupe-Accareddu/Lupe-Accareddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
