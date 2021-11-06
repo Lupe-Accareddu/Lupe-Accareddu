@@ -1,4 +1,4 @@
-Welcome to my github profile! Im Lupe Accareddu, a frontend developer in the making!
+Welcome to my github profile! I'm Lupe Accareddu, a frontend developer in the making!
 
 Linkedin: https://www.linkedin.com/in/lupe-accareddu/
 <br>
